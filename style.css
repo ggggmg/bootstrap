@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: #b5e9e4;
+    padding: 50px 0;
+}
+
+.box {
+    background-color: #b3b3b3;
+    height: auto;
+    padding: 23px 25px 16px;
+}
+
+.box img {
+    width: 100%;
+}
+
+.acc {
+    background-color: darkseagreen;
+    padding: 100px 0;
+}
+
